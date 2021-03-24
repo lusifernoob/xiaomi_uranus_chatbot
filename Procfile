@@ -1,1 +1,1 @@
-worker: python3 -m telegram_bot
+worker: python3 -m uranus_bot

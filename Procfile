@@ -1,1 +1,3 @@
-worker: python3 -m telegram_bot
+worker: cd uranus_bot
+python -m telegram_bot &
+python -m discord_bot &

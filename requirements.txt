@@ -13,6 +13,4 @@ sentry-sdk==1.0.0
 aiocontextvars
 # discord bot
 discord.py
-# Orangefox library
-git+https://gitlab.com/OrangeFox/infrastructure/python-api-lib#egg=orangefoxapi
 pydantic
